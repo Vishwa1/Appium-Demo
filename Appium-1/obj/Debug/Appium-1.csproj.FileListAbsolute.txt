@@ -1,0 +1,16 @@
+C:\Users\vvibhute\documents\visual studio 2015\Projects\Appium-1\Appium-1\bin\Debug\Appium-1.dll
+C:\Users\vvibhute\documents\visual studio 2015\Projects\Appium-1\Appium-1\bin\Debug\Appium-1.pdb
+C:\Users\vvibhute\documents\visual studio 2015\Projects\Appium-1\Appium-1\bin\Debug\appium-dotnet-driver.dll
+C:\Users\vvibhute\documents\visual studio 2015\Projects\Appium-1\Appium-1\bin\Debug\Castle.Core.dll
+C:\Users\vvibhute\documents\visual studio 2015\Projects\Appium-1\Appium-1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\vvibhute\documents\visual studio 2015\Projects\Appium-1\Appium-1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\vvibhute\documents\visual studio 2015\Projects\Appium-1\Appium-1\bin\Debug\WebDriver.dll
+C:\Users\vvibhute\documents\visual studio 2015\Projects\Appium-1\Appium-1\bin\Debug\WebDriver.Support.dll
+C:\Users\vvibhute\documents\visual studio 2015\Projects\Appium-1\Appium-1\bin\Debug\appium-dotnet-driver.xml
+C:\Users\vvibhute\documents\visual studio 2015\Projects\Appium-1\Appium-1\bin\Debug\Castle.Core.xml
+C:\Users\vvibhute\documents\visual studio 2015\Projects\Appium-1\Appium-1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\vvibhute\documents\visual studio 2015\Projects\Appium-1\Appium-1\bin\Debug\WebDriver.xml
+C:\Users\vvibhute\documents\visual studio 2015\Projects\Appium-1\Appium-1\bin\Debug\WebDriver.Support.xml
+C:\Users\vvibhute\documents\visual studio 2015\Projects\Appium-1\Appium-1\obj\Debug\Appium-1.dll
+C:\Users\vvibhute\documents\visual studio 2015\Projects\Appium-1\Appium-1\obj\Debug\Appium-1.pdb
+C:\Users\vvibhute\documents\visual studio 2015\Projects\Appium-1\Appium-1\obj\Debug\Appium-1.csprojResolveAssemblyReference.cache
